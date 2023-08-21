@@ -1,0 +1,44 @@
+git clone https://github.com/PaoHenao20/Checkpoint-agosto-2023-PaolaHenao.git
+ 2225  cd Checkpoint-agosto-2023-PaolaHenao
+ 2226  touch main.js
+ 2227  index.html
+ 2228  touch index.html
+ 2229  git add .
+ 2230  git commit -m "commit 01 de PaolaHenao"
+ 2231  git push
+ 2232  git branch
+ 2233  git checkout -b feature
+ 2234  git branch
+ 2235  mkdir Hardware
+ 2236  mkdir Software
+ 2237  mkdir SeguridadInformaatica
+ 2238  cd Hardware
+ 2239  pwd
+ 2240  touch resumen.txt
+ 2241  cd ..
+ 2242  cd Software
+ 2243  pwd
+ 2244  touch resumen.txt
+ 2245  cd ..
+ 2246  cd SeguridadInformatica
+ 2247  pwd
+ 2248  touch resumen.txt
+ 2249  cd ..
+ 2250  pwd
+ 2251  git add .
+ 2252  git commit -m "commit 02 de PaolaHenao"
+ 2253  git push origin feature
+ 2254  git status
+ 2255  git branch
+ 2256  git checkout main
+ 2257  git switch main
+ 2258  git branch
+ 2259  git status
+ 2260  git pull origin main 
+ 2261  mv main.js resumenHardware.txt
+ 2262  mv index.html resumenSoftware.txt
+ 2263  pwd
+ 2264  git status
+ 2265  pwd
+ 2266  git branch
+ 2267  touch comandos.txt
